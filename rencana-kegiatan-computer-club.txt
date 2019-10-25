@@ -2,5 +2,8 @@ Rencana kegiatan computer club
 
 - CC Routine
   * Design Product
+    - Design Thinking
   * Software Engineer
 - CC Project
+  * Design Product
+  * Software Engineer
